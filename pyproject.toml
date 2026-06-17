@@ -1,0 +1,20 @@
+[project]
+name = "astram-foresight"
+version = "0.1.0"
+description = "Predictive intelligence layer for event-driven traffic congestion (Bengaluru ASTraM data) — Gridlock Hackathon 2.0, PS2"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "scikit-learn>=1.4",
+    "lightgbm>=4.0",
+    "pyarrow>=14",
+    "joblib>=1.3",
+    "scipy>=1.11",
+    "streamlit>=1.36",
+    "pydeck>=0.9",
+]
+
+[tool.uv]
+package = false
