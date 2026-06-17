@@ -1,0 +1,11 @@
+{
+  "n_events": 8173,
+  "n_with_duration": 2460,
+  "closure_rate_pct": 8.3,
+  "high_priority_pct": 61.6,
+  "n_corridors": 22,
+  "n_recurring_venues": 643,
+  "n_breakdown_hotspots": 1002,
+  "date_min": "2023-11-09 19:24:48.154000+00:00",
+  "date_max": "2024-04-08 17:11:42.780000+00:00"
+}
