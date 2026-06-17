@@ -1,0 +1,25 @@
+{
+  "n_train": 5359,
+  "n_test": 1340,
+  "n_classes": 11,
+  "accuracy": 0.663,
+  "macro_f1": 0.497,
+  "weighted_f1": 0.683,
+  "baseline_majority_acc": 0.516,
+  "per_class_f1_top": {
+    "others": 0.223,
+    "tree_fall": 0.708,
+    "pot_holes": 0.522,
+    "accident": 0.69,
+    "water_logging": 0.747,
+    "construction": 0.64,
+    "public_event": 0.133,
+    "vehicle_breakdown": 0.82
+  },
+  "severity_distribution": {
+    "none": 6304,
+    "low": 1055,
+    "medium": 797,
+    "high": 17
+  }
+}
